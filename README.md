@@ -1,5 +1,6 @@
 # Small-Dino
-A small game similar Chrome Dino game
+There is still a small bug in this game, so don't change any value in case you can't play the game.
+Have Fun!!
 ```Python
 import pygame,sys
 import time

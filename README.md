@@ -1,4 +1,5 @@
 # Small-Dino
+類似chrome的小恐龍遊戲,碰撞判斷不知道為甚麼寫爛了,還在找bug中,但目前這個數值已經可以正常遊戲了
 There is still a small bug in this game, so don't change any value in case you can't play the game.
 Have Fun!!
 ```Python

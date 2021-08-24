@@ -159,7 +159,6 @@ while True:
         
 
     screen.fill((0,0,0))
-    pygame.draw.rect(screen,[0,0,0],[100,100,100,100],0)
     pygame.draw.line(screen,[255,255,255],[0,HEIGHT//2+40],[500,HEIGHT//2+40],1)
     all_sprites.update()
     bar.update()
